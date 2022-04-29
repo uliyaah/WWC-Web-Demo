@@ -1,0 +1,28 @@
+* {
+    margin:10px;
+    background-color: antiquewhite;
+    font-family: 'Trebuchet MS', sans-serif;
+    color:darkslategray;
+}
+
+h1 {
+    color:rgb(59, 9, 9);
+    text-align:center
+}
+
+a {
+    color:darkslateblue;
+    text-decoration-line: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color:rgb(183, 19, 183);
+}
+
+.center {
+    text-align: center;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
